@@ -1,0 +1,15 @@
+D:\luisjgithub\csharpplayersguide\part1_the_basics\writing\bin\Debug\net6.0\writing.exe
+D:\luisjgithub\csharpplayersguide\part1_the_basics\writing\bin\Debug\net6.0\writing.deps.json
+D:\luisjgithub\csharpplayersguide\part1_the_basics\writing\bin\Debug\net6.0\writing.runtimeconfig.json
+D:\luisjgithub\csharpplayersguide\part1_the_basics\writing\bin\Debug\net6.0\writing.dll
+D:\luisjgithub\csharpplayersguide\part1_the_basics\writing\bin\Debug\net6.0\writing.pdb
+D:\luisjgithub\csharpplayersguide\part1_the_basics\writing\obj\Debug\net6.0\writing.csproj.AssemblyReference.cache
+D:\luisjgithub\csharpplayersguide\part1_the_basics\writing\obj\Debug\net6.0\writing.GeneratedMSBuildEditorConfig.editorconfig
+D:\luisjgithub\csharpplayersguide\part1_the_basics\writing\obj\Debug\net6.0\writing.AssemblyInfoInputs.cache
+D:\luisjgithub\csharpplayersguide\part1_the_basics\writing\obj\Debug\net6.0\writing.AssemblyInfo.cs
+D:\luisjgithub\csharpplayersguide\part1_the_basics\writing\obj\Debug\net6.0\writing.csproj.CoreCompileInputs.cache
+D:\luisjgithub\csharpplayersguide\part1_the_basics\writing\obj\Debug\net6.0\writing.dll
+D:\luisjgithub\csharpplayersguide\part1_the_basics\writing\obj\Debug\net6.0\refint\writing.dll
+D:\luisjgithub\csharpplayersguide\part1_the_basics\writing\obj\Debug\net6.0\writing.pdb
+D:\luisjgithub\csharpplayersguide\part1_the_basics\writing\obj\Debug\net6.0\writing.genruntimeconfig.cache
+D:\luisjgithub\csharpplayersguide\part1_the_basics\writing\obj\Debug\net6.0\ref\writing.dll
