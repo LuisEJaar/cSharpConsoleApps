@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\luisjgithub\\csharpplayersguide\\part1_the_basics\\writing\\writing.csproj",
+      "projectUniqueName": "D:\\luisjgithub\\cSharpConsoleApps\\writing\\writing.csproj",
       "projectName": "writing",
-      "projectPath": "D:\\luisjgithub\\csharpplayersguide\\part1_the_basics\\writing\\writing.csproj",
+      "projectPath": "D:\\luisjgithub\\cSharpConsoleApps\\writing\\writing.csproj",
       "packagesPath": "C:\\Users\\jaarle\\.nuget\\packages\\",
-      "outputPath": "D:\\luisjgithub\\csharpplayersguide\\part1_the_basics\\writing\\obj\\",
+      "outputPath": "D:\\luisjgithub\\cSharpConsoleApps\\writing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

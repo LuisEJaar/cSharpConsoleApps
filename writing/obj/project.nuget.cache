@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6UJlVyS31emQ84QjTvHEAalhSKLNWKM0I7BQue06FTJiba/fxvjUbfsQqDRYx7kgAANfZhwDttIge0K2kLdKUg==",
+  "dgSpecHash": "akl2ZvBAKEZSCu4DnlZJqlfdlTAZfu1Mliaqu3KrNVLtJK/CTKgLyZZE9MYSOyQ1Q7uY+S6buPskM9XaoMyZAw==",
   "success": true,
-  "projectFilePath": "D:\\luisjgithub\\csharpplayersguide\\part1_the_basics\\writing\\writing.csproj",
+  "projectFilePath": "D:\\luisjgithub\\cSharpConsoleApps\\writing\\writing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaarle\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
     "C:\\Users\\jaarle\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
