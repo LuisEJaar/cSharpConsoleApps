@@ -1,26 +1,30 @@
-﻿using System;
+﻿using CommandLine;
+using System;
+using writing;
 
-internal class Program
+namespace Writing
 {
-    private static void Main(string[] args)
+    class Program
     {
-
-        var fullCommandLineString = Environment.CommandLine;
-
-        //Console.WriteLine("fullCommandLineString");
-
-        //Console.WriteLine(fullCommandLineString);
-
-        var message = args[0];
-        var iterations = Convert.ToInt32(args[1]);
-
-        //Console.WriteLine("Args: ");
-
-        for(int i = 0; i < iterations; i++)
+        static void Main(string[] args)
         {
-            Console.WriteLine(message);
-        }
+            MyOptions options = new MyOptions();
 
-        Console.ReadLine();
+            var answer  = CommandLine.Parser.Default.ParseArguments<MyOptions>(args)
+                .WithParsed<MyOptions>(opts => options = opts);
+            
+            if(answer != null)
+            {
+                for (int i = 0; i < options.Times; i++)
+                {
+                    Console.WriteLine(options.Message);
+                }
+                Console.ReadLine();
+            } else
+            {
+                Console.WriteLine("Didn't work eh");
+                Console.ReadLine();
+            }
+        }
     }
 }

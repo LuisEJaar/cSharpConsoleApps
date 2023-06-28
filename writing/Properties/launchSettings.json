@@ -1,8 +1,7 @@
 {
   "profiles": {
     "writing": {
-      "commandName": "Project",
-      "commandLineArgs": "\"hello world\" 5"
+      "commandName": "Project"
     }
   }
 }

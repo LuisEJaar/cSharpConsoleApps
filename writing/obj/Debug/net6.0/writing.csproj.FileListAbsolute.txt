@@ -30,3 +30,5 @@ D:\luisjgithub\cSharpConsoleApps\writing\obj\Debug\net6.0\writing.genruntimeconf
 D:\luisjgithub\cSharpConsoleApps\writing\obj\Debug\net6.0\ref\writing.dll
 D:\luisjgithub\cSharpConsoleApps\writing\obj\Debug\net6.0\writing.Properties.Resources.resources
 D:\luisjgithub\cSharpConsoleApps\writing\obj\Debug\net6.0\writing.csproj.GenerateResource.cache
+D:\luisjgithub\cSharpConsoleApps\writing\bin\Debug\net6.0\CommandLine.dll
+D:\luisjgithub\cSharpConsoleApps\writing\obj\Debug\net6.0\writing.csproj.CopyComplete

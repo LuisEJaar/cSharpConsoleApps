@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "akl2ZvBAKEZSCu4DnlZJqlfdlTAZfu1Mliaqu3KrNVLtJK/CTKgLyZZE9MYSOyQ1Q7uY+S6buPskM9XaoMyZAw==",
+  "dgSpecHash": "1Q5b2xhIvWmQjFBENimfC8js4OU3xBUhfhV76OSxAQUaumy/fRPexz71UmA4hOZOwoxFMVvdd+qvcrQM8W99lQ==",
   "success": true,
   "projectFilePath": "D:\\luisjgithub\\cSharpConsoleApps\\writing\\writing.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jaarle\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
     "C:\\Users\\jaarle\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
     "C:\\Users\\jaarle\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
     "C:\\Users\\jaarle\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
